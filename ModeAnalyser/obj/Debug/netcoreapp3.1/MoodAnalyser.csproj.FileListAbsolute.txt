@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\ModeAnalyser\ModeAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyser.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\ModeAnalyser\ModeAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\ModeAnalyser\ModeAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyser.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\ModeAnalyser\ModeAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyser.AssemblyInfo.cs
+C:\Users\dell\source\repos\ModeAnalyser\ModeAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ModeAnalyser\ModeAnalyser\bin\Debug\netcoreapp3.1\MoodAnalyser.exe
+C:\Users\dell\source\repos\ModeAnalyser\ModeAnalyser\bin\Debug\netcoreapp3.1\MoodAnalyser.deps.json
+C:\Users\dell\source\repos\ModeAnalyser\ModeAnalyser\bin\Debug\netcoreapp3.1\MoodAnalyser.runtimeconfig.json
+C:\Users\dell\source\repos\ModeAnalyser\ModeAnalyser\bin\Debug\netcoreapp3.1\MoodAnalyser.runtimeconfig.dev.json
+C:\Users\dell\source\repos\ModeAnalyser\ModeAnalyser\bin\Debug\netcoreapp3.1\MoodAnalyser.dll
+C:\Users\dell\source\repos\ModeAnalyser\ModeAnalyser\bin\Debug\netcoreapp3.1\MoodAnalyser.pdb
+C:\Users\dell\source\repos\ModeAnalyser\ModeAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyser.dll
+C:\Users\dell\source\repos\ModeAnalyser\ModeAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyser.pdb
+C:\Users\dell\source\repos\ModeAnalyser\ModeAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyser.genruntimeconfig.cache
